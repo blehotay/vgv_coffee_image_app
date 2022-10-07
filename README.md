@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This is a sample app that fetches a coffee image from an api and allows a user 
+This is a sample app that fetches a coffee image from https://coffee.alexflipnote.dev/ Coffee Api and allows a user 
 to store to favorites using BLoC and repository pattern 
 
 Run the app on iOS simulator or Android emulator. When the app loads, a new coffee i
